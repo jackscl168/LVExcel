@@ -43,7 +43,9 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="NPOI.OOXML.dll" Type="Document" URL="../../Resources/NPOI 2.1.1 dotnet4/NPOI.OOXML.dll"/>
+			<Item Name="NPOI.dll" Type="Document" URL="/C/Users/LENOVO/Desktop/CodeSpace GUI/LVExcel/Resources/NPOI.dll"/>
+			<Item Name="NPOI.dll" Type="Document" URL="../../Resources/net40/NPOI.dll"/>
+			<Item Name="NPOI.OOXML.dll" Type="Document" URL="../../Resources/net40/NPOI.OOXML.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
