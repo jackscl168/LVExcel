@@ -8,5 +8,5 @@ Hence,I know it's a 4 years old project, the NPOI dlls that the project includes
 I add the  lasted dlls at the path ".\Resources\net40" which is copyed from the Nuget:  
  \<package id="NPOI" version="2.4.1" targetFramework="net40" />  
  \<package id="SharpZipLib" version="0.86.0" targetFramework="net40" />  
-and three little application VIs.
+and three little application VIs.    
     There a bug when saving file.I will solve it.
